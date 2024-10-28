@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    border: 4px solid black;
+    width: 100vh;
+    border-radius: 10px;
+    background-color: rgb(35, 35, 121);
+    color: aliceblue;
+
+
+}
+
+.content{
+    background-color: rgb(154, 195, 92);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+.count-value{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
